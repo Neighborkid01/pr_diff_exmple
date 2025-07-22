@@ -9,5 +9,5 @@ This file has 3 sections:
 But also some lines without dashes.
 
 3. This is the third section
-This is entirely lines by themselves.
-Not a bullet point in sight here.
+- This is entirely bullet points too
+- Only bullet points in sight here
