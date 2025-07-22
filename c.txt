@@ -1,4 +1,4 @@
-This file has 3 sections:
+This file has 4 sections:
 
 1. This is the first section
 - There's some bullet points and stuff.
@@ -9,5 +9,10 @@ This file has 3 sections:
 But also some lines without dashes.
 
 3. This is the third section
-- This is not entirely lines by themselves
-- There are bullet points in sight here
+- This is not entirely lines by themselves ~
+- There are bullet points in sight here ~
+- It now ends in squiggles though. ~
+
+4. This is the last section
+* All these start with stars
+* Everyone loves a good star
