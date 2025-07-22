@@ -5,3 +5,4 @@ This file has 3 sections:
 
 2. This is the middle section
 - new bullet point
+- ok, here's a second one
