@@ -3,3 +3,5 @@ This is the second line.
 And this is the third.
 Line number 4.
 This is the last line.
+
+Now there's another section down here
