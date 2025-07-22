@@ -9,9 +9,10 @@ This file has 3 sections:
 But also some lines without dashes.
 
 3. This is the third section
-This is entirely lines by themselves. ~
-Not a bullet point in sight here. ~
-This section also ends with squiggles! ~
+- This is entirely lines by themselves ~
+- Not a bullet point in sight here ~
+- This section also ends with squiggles! ~
+- And here's that other bullet point you wanted ~
 
 4. This is the new last section
 * All thse start with stars
