@@ -1,6 +1,0 @@
-This file has 3 sections:
-
-- There's some bullet points and stuff.
-- Here's a second one.
-
-2. This is the middle section
