@@ -1,6 +1,0 @@
-This file starts with 4 lines.
-This is the second line.
-And this is the third.
-This is the last line.
-
-Now there's another section down here.
