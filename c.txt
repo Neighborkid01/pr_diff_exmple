@@ -1,6 +1,5 @@
 This file has 3 sections:
 
-1. This is the first section
 - There's some bullet points and stuff.
 - Here's a second one.
 
