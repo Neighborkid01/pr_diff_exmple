@@ -1,7 +1,6 @@
-This file starts with 5 lines.
+This file starts with 4 lines.
 This is the second line.
 And this is the third.
-Line number 4.
 This is the last line.
 
 Now there's another section down here
