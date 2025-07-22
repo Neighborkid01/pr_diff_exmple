@@ -12,6 +12,7 @@ But also some lines without dashes.
 - This is not entirely lines by themselves ~
 - There are bullet points in sight here ~
 - It now ends in squiggles though. ~
+- More bullet points.
 
 4. This is the last section
 * All these start with stars
