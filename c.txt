@@ -9,5 +9,10 @@ This file has 3 sections:
 But also some lines without dashes.
 
 3. This is the third section
-- This is entirely lines by themselves
-- Not a bullet point in sight here
+- This is entirely lines by themselves ~
+- Not a bullet point in sight here ~
+- This section also ends with squiggles! ~
+
+4. This is the new last section
+* All thse start with stars
+* everyone loves a good star!!!!!
